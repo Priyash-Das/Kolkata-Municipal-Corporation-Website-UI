@@ -6,7 +6,7 @@ This project is a **`front-end clone`** of the [Kolkata Municipal Corporation (K
 
 > ✅ This project is for **educational** and **demonstration purposes only** — not affiliated with KMC.
 
->> My Live Project [Click here to view the project]()
+>> My Live Project [Click here to view the project](https://priyash-das.github.io/Kolkata-Municipal-Corporation-Website-UI/)
 
 ---
 ---
